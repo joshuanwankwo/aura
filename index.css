@@ -438,19 +438,19 @@ background: #e6af2e;
 	left: 0;
 	bottom: 0;
 	padding: 10px;
-	font-size: 20px;
+	font-size: 10px;
 	opacity: 0;
 	color: #e6af2e;
 	transition: opacity 1s;
 }
 
 .img-text h1{
-	font-size: 30px;
+	font-size: 25px;
 	margin-bottom: 10px;
 }
 
 .img-text h6{
-	font-size: 20px;
+	font-size: 15px;
 }
 
 
@@ -465,7 +465,7 @@ background: #e6af2e;
 }
 
 
-@media screen and (min-width:576px) {
+@media screen and (min-width:576spx) {
 	.projects-container{
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
@@ -668,7 +668,7 @@ footer{
 
 
 .footer-icons{
-	font-size: 30px;
+	font-size: 20px;
 }
 
 .footer-icons .fab{
