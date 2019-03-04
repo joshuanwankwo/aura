@@ -1,4 +1,4 @@
-# Teen_4_Tech
+# Teens_4_Tech
 
 
 This project is part of my archievments as a teenager and it is aimed at connecting 
