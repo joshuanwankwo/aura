@@ -1,4 +1,4 @@
-# Teens_4_Tech
+# Aura
 
 
 This project is part of my archievments as a teenager and it is aimed at connecting 
